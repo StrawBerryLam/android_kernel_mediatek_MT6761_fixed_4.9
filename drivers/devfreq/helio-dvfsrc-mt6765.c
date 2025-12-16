@@ -23,7 +23,7 @@
 
 #include "helio-dvfsrc.h"
 #include "helio-dvfsrc-opp.h"
-#include <mtk_dvfsrc_reg.h>
+#include "mtk_dvfsrc_reg.h"
 #include <mtk_spm_internal.h>
 #include <spm/mtk_vcore_dvfs.h>
 #include <mtk_gpufreq.h>
