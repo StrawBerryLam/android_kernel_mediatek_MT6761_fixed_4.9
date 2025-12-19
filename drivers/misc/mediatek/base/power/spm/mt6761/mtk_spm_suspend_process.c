@@ -20,8 +20,8 @@
 #include <mt-plat/upmu_common.h>
 #endif
 
-#include <mtk_spm_internal.h>
-#include <mtk_spm_suspend_internal.h>
+#include "mtk_spm_internal.h"
+#include "mtk_spm_suspend_internal.h"
 
 #ifdef CONFIG_MTK_TINYSYS_SSPM_SUPPORT
 #include <sspm_define.h>

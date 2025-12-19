@@ -26,10 +26,10 @@
 #endif
 #include <mtk_spm_irq.h>
 
-#include <mtk_spm_internal.h>
-#include <mtk_spm_suspend_internal.h>
-#include <mtk_spm_resource_req_internal.h>
-#include <mtk_spm_resource_req.h>
+#include "mtk_spm_internal.h"
+#include "mtk_spm_suspend_internal.h"
+#include "mtk_spm_resource_req_internal.h"
+#include "mtk_spm_resource_req.h"
 
 #include <mt-plat/mtk_ccci_common.h>
 
