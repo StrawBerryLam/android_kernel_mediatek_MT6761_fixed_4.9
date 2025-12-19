@@ -30,7 +30,7 @@
 
 #include "mtk_spm_irq.h"
 #include "mtk_spm_internal.h"
-#include <mtk_sspm.h>
+#include "mtk_sspm.h"
 
 #include <mtk_idle_sysfs.h>
 #include <mach/upmu_sw.h>

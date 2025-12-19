@@ -23,9 +23,9 @@
 #include <linux/of_irq.h>
 #include <linux/of_address.h>
 
-#include <mtk_spm.h>
-#include <mtk_spm_irq.h>
-#include <mtk_spm_internal.h>
+#include "mtk_spm.h"
+#include "mtk_spm_irq.h"
+#include "mtk_spm_internal.h"
 #include <mt-plat/mtk_cirq.h>
 
 #if 0 //FIXME
