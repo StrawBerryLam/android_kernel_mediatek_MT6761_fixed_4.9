@@ -19,7 +19,7 @@
 #include <linux/stacktrace.h>
 
 #include <mt-plat/mtk_ccci_common.h>
-#include "ccci_config.h"
+#include "../mt6765/ccci_config.h"
 #include "ccci_bm.h"
 #ifdef CCCI_BM_TRACE
 #define CREATE_TRACE_POINTS

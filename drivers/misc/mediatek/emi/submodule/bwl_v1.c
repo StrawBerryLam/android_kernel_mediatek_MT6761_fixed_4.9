@@ -20,7 +20,7 @@
 #include <mt-plat/mtk_io.h>
 #include <mt-plat/sync_write.h>
 
-#include <mt_emi.h>
+#include "mt6761/mt_emi.h"
 #include <bwl_platform.h>
 #include "bwl_v1.h"
 

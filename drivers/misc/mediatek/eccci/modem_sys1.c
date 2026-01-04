@@ -39,7 +39,7 @@
 #endif
 
 #include <mach/mtk_pbm.h>
-#include "ccci_config.h"
+#include "../mt6765/ccci_config.h"
 #include "ccci_core.h"
 #include "ccci_modem.h"
 #include "ccci_bm.h"

@@ -28,7 +28,7 @@
 #include <mt-plat/aee.h>
 #endif
 
-#include <mt_emi.h>
+#include "mt6761/mt_emi.h"
 #include "mpu_v1.h"
 #include <mpu_platform.h>
 
