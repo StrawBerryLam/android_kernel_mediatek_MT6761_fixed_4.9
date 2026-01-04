@@ -20,7 +20,7 @@
 #include <sspm_ipi.h>
 #include <trace/events/mtk_events.h>
 
-#include <mtk_sspm.h>
+#include "mtk_sspm.h"
 #include "mtk_spm_internal.h"
 
 #define mtk_timer_src_count(...)    arch_counter_get_cntvct(__VA_ARGS__)

@@ -29,7 +29,7 @@
 #include <mt-plat/mtk_cirq.h>
 
 #if 0 //FIXME
-#include <mtk_spm_vcore_dvfs.h>
+#include "mtk_spm_vcore_dvfs.h"
 #endif
 
 #if defined(CONFIG_MTK_SYS_CIRQ)

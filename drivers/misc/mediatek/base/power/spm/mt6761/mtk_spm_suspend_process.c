@@ -28,8 +28,8 @@
 #include <sspm_timesync.h>
 #endif
 
-#include <mtk_power_gs_api.h>
-#include <mtk_sspm.h>
+#include "mtk_power_gs_api.h"
+#include "mtk_sspm.h"
 
 #define WORLD_CLK_CNTCV_L        (0x10017008)
 #define WORLD_CLK_CNTCV_H        (0x1001700C)
