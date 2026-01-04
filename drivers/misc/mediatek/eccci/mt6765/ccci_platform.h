@@ -17,7 +17,7 @@
 #include <mt-plat/sync_write.h>
 #include "ccci_config.h"
 #include "../modem_sys.h"
-#include "hif/ccci_hif_cldma.h"
+#include "../hif/ccci_hif_cldma.h"
 
 extern volatile unsigned int devapc_check_flag;
 /* the last EMI bank, properly not used */

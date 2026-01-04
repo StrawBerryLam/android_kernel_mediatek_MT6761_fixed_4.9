@@ -43,7 +43,7 @@
 #include "ccci_core.h"
 #include "ccci_modem.h"
 #include "ccci_bm.h"
-#include "ccci_platform.h"
+#include "./mt6765/ccci_platform.h"
 #include "md_sys1_platform.h"
 #include "modem_reg_base.h"
 #include "ccci_debug.h"
