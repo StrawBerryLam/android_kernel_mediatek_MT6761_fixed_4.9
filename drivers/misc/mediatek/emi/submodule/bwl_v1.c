@@ -21,7 +21,7 @@
 #include <mt-plat/sync_write.h>
 
 #include "mt6761/mt_emi.h"
-#include <bwl_platform.h>
+#include "mt6761/bwl_platform.h"
 #include "bwl_v1.h"
 
 #ifdef DECS_ON_SSPM

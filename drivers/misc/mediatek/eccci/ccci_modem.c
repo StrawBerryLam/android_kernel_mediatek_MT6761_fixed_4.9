@@ -22,7 +22,7 @@
 #include <linux/atomic.h>
 
 #include "../mt6765/ccci_config.h"
-#include "ccci_platform.h"
+#include "../mt6765/ccci_platform.h"
 #include "ccci_core.h"
 #include "ccci_bm.h"
 #include "modem_sys.h"

@@ -19,7 +19,7 @@
 
 #include "mtkfb.h"
 #include "../mt6765/extd_hdmi.h"
-#include "extd_info.h"
+#include "../mt6765/extd_info.h"
 #include <linux/compat.h>
 
 #define HDMI_DRV "/dev/hdmitx"
