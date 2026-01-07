@@ -15,6 +15,6 @@
 #define __MT_IOMMU_H__
 
 #include <dt-bindings/memory/mt6761-larb-port.h>
-#include "mtk_iommu_ext.h"
+#include "../../../../../../../iommu/mtk_iommu_ext.h"
 
 #endif
